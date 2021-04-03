@@ -2,7 +2,7 @@
 Library         ../lib/senhaGen.py
 
 *** Variables ***
-${email}                viniciusoliveira2@orbia.ag
+${email}                vinicius.oliveira@orbia.ag
 ${primeiro_nome}        Vinícius
 ${ultimo_nome}          Oliveira
 ${senha}=               Senha                       10
